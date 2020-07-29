@@ -1,5 +1,7 @@
 # ml-recommender
 
+This project contains two scripts. The first is an Anomaly detection algorithm to detect anomolous behavior in server computers based on the features throughput adn latency. The second is a recommender algorithm that implements a collaborative filtering learning algorithm to recommend movies to users based on how they have rated movies in the past.
+
 Files included in this exercise
 
 ex8.m - Octave/MATLAB script for first part of exercise
